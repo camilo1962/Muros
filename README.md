@@ -1,3 +1,3 @@
-# Square
+# Muros
 
-Square is a hyper casual game still under construction and made by me with the Unity game engine.
+https://github.com/camilo1962/Muros/blob/main/Assets/Sprites/Icono.png
